@@ -4,21 +4,23 @@ body{
 }
 
 /* For Question 1 */
-#divId{
+/* div{
     position: relative;
     top: 30px;
     left: 30px;
     border: 2px solid red;
     width: 25%;
     text-align: center;
-}
+} */
+
+
 
 /* For Question 2 */
-.inputData{
+/* .inputData{
     position: absolute;
     top: 50px;
     left: 50px;
-}
+} 
 
 button{
     color: white;
@@ -33,14 +35,85 @@ button{
 
 span2{
     margin-left: 20px;
-}
+} */
+
+
 
 /* For Question 3 */
-#h1tag{
+/* #h1tag{
     width: 35%;
-}
+} */
+
+
 
 /* For Question 4 */
-#span4{
+/* #span4{
+    margin-left: 20px;
+} */
+
+
+
+/* For Question 5 */
+/* #span5{
     margin-left: 20px;
 }
+
+button{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.805);
+    padding: 5px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-top : 10px;
+    margin-left : 20px
+} */
+
+
+
+/* For Question 6 */
+/* form{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 30%;
+}
+
+div{
+    width: 500px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div > input{
+    height: 30px;
+    width: 350px;
+}
+
+button{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.805);
+    padding: 5px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-top : 10px;
+} */
+
+/* For Question 7 */
+
+/* button{
+    color: white;
+    background-color: purple;
+    padding: 5px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-top : 10px;
+    margin-left : 20px;
+} */
